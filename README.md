@@ -19,5 +19,5 @@ Reads and processes the input files, extracting metadata and converting data int
 
 
 # Output:
-![Time vs Voltage graph](https://github.com/adi9708/results/voltage_traces_final.png)
+![Time vs Voltage graph](https://github.com/adi9708/File_importer/results/voltage_traces_final.png)
 
