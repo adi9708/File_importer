@@ -1,0 +1,30 @@
+Moduleunique,Variable Number,Fieldname,Abbrvfieldname,Units,Abbrvunits,Scalefactor,Numberofinstances,Variablecanbegraphed,Timevariableflag,Digitstorightofdecimal
+1,10,Test Unique,TestU,0,0,1.0,1,0,0,0
+1,20,Exclude,Exclude,0,0,1.0,1,0,0,0
+1,30,Total Time,T-Time,Seconds,S,0.1,1,1,1,1
+1,40,Cycle,Cycl,Cycles,0,1.0,1,1,0,0
+1,50,Loop Counter #1,Loop1,Loops,0,1.0,1,1,0,0
+1,60,Loop Counter #2,Loop2,Loops,0,1.0,1,1,0,0
+1,70,Loop Counter #3,Loop3,Loops,0,1.0,1,1,0,0
+1,80,Step,Step,Steps,0,1.0,1,1,0,0
+1,90,Step time,S-Time,Seconds,S,0.1,1,1,1,1
+1,100,Current,Amp,Amps,A,1.0,1,1,0,2
+1,110,Voltage,Volt,Volts,V,1.0,1,1,0,3
+1,120,Power,Watt,Watts,W,1.0,1,1,0,0
+1,130,Amp-Hours,AH,Amp Hours,AH,1.0,1,1,0,2
+1,140,Watt-Hours,W/H,Watt Hours,WH,1.0,1,1,0,2
+1,150,Amp Hours Charge,AHC,Amp Hours,AH,1.0,1,1,0,2
+1,160,Amp Hours Discharge,AHD,Amp Hours,AH,1.0,1,1,0,2
+1,170,Watt Hours Charge,WHC,Watt Hours,WH,1.0,1,1,0,2
+1,180,Watt Hours Discharge,WHD,Watt Hours,WH,1.0,1,1,0,2
+1,190,Assignable Variable 1,AV1,0,0,1.0,1,1,0,3
+1,200,Assignable Variable 2,AV2,0,0,1.0,1,1,0,3
+1,210,Assignable Variable 3,AV3,0,0,1.0,1,1,0,3
+1,220,Assignable Variable 4,AV4,0,0,1.0,1,1,0,3
+1,230,Assignable Variable 5,AV5,0,0,1.0,1,1,0,3
+1,240,Assignable Variable 6,AV6,0,0,1.0,1,1,0,3
+1,250,Assignable Variable 7,AV7,0,0,1.0,1,1,0,3
+1,260,Assignable Variable 8,AV8,0,0,1.0,1,1,0,3
+1,270,Assignable Variable 9,AV9,0,0,1.0,1,1,0,3
+1,280,Mode,Mode,0,0,1.0,1,0,0,0
+1,290,Data Acquisition Flag,Dflag,0,0,1.0,1,0,0,0

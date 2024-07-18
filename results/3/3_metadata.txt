@@ -1,0 +1,29 @@
+File type:;CSV export
+File syntax:;1.0
+Application name:;Battery Manager
+Application version:;0.00.0.000
+File created:;2018-05-30 16:54:05
+Decimal separator:;.
+Profile run start time:;2018-05-02 12:16:52
+Profile run end time:;2018-05-02 12:17:58
+Profile run time zone:;UTC +-4:00
+Profile run comment:;
+Order no.:;
+Profile name:;TEST
+Profile no.:;3
+Profile comment:;
+Battery type:;
+Battery model:;DEMO_TEST
+Battery producer:;
+Battery comment:;
+Battery s/n:;
+Battery num. of cells:;0
+Battery nom. voltage:;0
+Battery nom. current:;0
+Battery nom. capacity:;0
+Battery impedance:;0
+Battery charge factor:;0
+Battery energy density:;0
+Circuit:;MCT-001
+Number of sections:;1
+Section title:;TITLE
