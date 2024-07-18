@@ -8,7 +8,7 @@ def main():
         'test_files/1/1.xyz',
         'test_files/2/2.xyz',
         'test_files/3/3.xyz',
-        # 'test_files/4/4.mdb'
+        'test_files/4/4.mdb'
     ]
 
     # Process and save data files

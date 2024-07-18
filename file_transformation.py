@@ -66,7 +66,8 @@ def third_file_extractor(file_path):
 def read_mdb_file(file_path, output_dir):
     # Use mdb-tools to get table names
     tables = subprocess.check_output(['mdb-tables', '-1', file_path]).decode().strip().split('\n')
-   
+    os.makedirs(output_dir, exist_ok=True)
+
     data_frames = {}
     for table in tables:
         if table:
